@@ -339,7 +339,7 @@
       "kernelVersions": ["5.15.189"],
       "requiresFreshP0Session": true,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/songohan43000/Root-My-Galaxy-Payloads/blob/main/artifacts/b5q-F731NXXU6GZDU/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/b5q-F731BXXS7GZG1/cve-2026-43499-app.so",
         "size": 132920
       },
       "kernelsu": {
