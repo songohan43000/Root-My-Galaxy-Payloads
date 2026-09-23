@@ -330,7 +330,9 @@
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-S9280ZCS6DZF2-kdp",
         "size": 4879856
-         {
+      }
+    },
+    {
       "payloadId": "b5q-F731BXXS7GZG1",
       "displayName": "Galaxy Z Flip5 SM-F731N | Kernel 5.15.189 (F731NXXSU6GZDU)",
       "models": ["SM-F731N"],
